@@ -1,16 +1,26 @@
-### Hi there 👋
+👋 Guten Tag,<br>
+Herzlich Willkommen auf meiner GITHUB-Seite.
 
-<!--
-**TheRealVince/TheRealVince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Über mich:
+Ich bin der Typ den Sie rufen, wenn Sie keine Antwort<br>
+auf Stack-Overflow.com finden.
 
-Here are some ideas to get you started:
+Ein paar Beispiele:
+* Reverse-Engineering von Binär-Dateien um eigene Reader zu entwickeln (BugFix für Microsofts OLE-DB-Treiber)
+* Eigene Implementierung eines Base64-Algorithmuses
+* Eigenen Bitmap-Writer
+<br>
+Natürlich kann ich auch die leichten Sachen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Für mein Portfolio:
+[Bitte hier klicken](https://theRealVince.github.io)
+
+## FAQ:
+<u>Warum sehe ich keine PUBLIC Repositories?</u><br>
+Weil sich in vielen Repositories bezahlte API-Keys, persoenliche Einstellungen und<br>
+Zugangsdaten wie Benutzernamen, Passwoerter und E-Mail-Adressen befinden.<br>
+Daher habe ich mich vorsichtshalber entschieden alles auf PRIVATE zu setzen.
+
+<u>Wo finde ich die neusten Builds?</u><br>
+In meinem [Portfolio](https://theRealVince.github.io).<br>
+Achten Sie dort auf die Spalte "Download".
