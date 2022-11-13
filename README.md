@@ -7,13 +7,14 @@ auf Stack-Overflow.com finden.
 
 Ein paar Beispiele:
 * Reverse-Engineering von Binär-Dateien um eigene Reader zu entwickeln (BugFix für Microsofts OLE-DB-Treiber)
-* Eigene Implementierung eines Base64-Algorithmuses
-* Eigenen Bitmap-Writer
+* Eigene Implementierung eines Base64-Algorithmus
+* Eigene Implementierung eines Bitmap-Writers
+
 <br>
 Natürlich kann ich auch die leichten Sachen.
 
 ## Für mein Portfolio:
-[Bitte hier klicken](https://theRealVince.github.io)
+[Bitte hier klicken, um zu meinem Portfolio zu gelangen](https://theRealVince.github.io)
 
 ## FAQ:
 <u>Warum sehe ich keine PUBLIC Repositories?</u><br>
