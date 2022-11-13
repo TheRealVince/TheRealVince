@@ -17,11 +17,11 @@ Natürlich kann ich auch die leichten Sachen.
 [Bitte hier klicken, um zu meinem Portfolio zu gelangen](https://theRealVince.github.io)
 
 ## FAQ:
-<u>Warum sehe ich keine PUBLIC Repositories?</u><br>
+#### Warum sehe ich keine PUBLIC Repositories?<br>
 Weil sich in vielen Repositories bezahlte API-Keys, persoenliche Einstellungen und<br>
 Zugangsdaten wie Benutzernamen, Passwoerter und E-Mail-Adressen befinden.<br>
 Daher habe ich mich vorsichtshalber entschieden alles auf PRIVATE zu setzen.
 
-<u>Wo finde ich die neusten Builds?</u><br>
+#### Wo finde ich die neusten Builds?<br>
 In meinem [Portfolio](https://theRealVince.github.io).<br>
 Achten Sie dort auf die Spalte "Download".
