@@ -1,4 +1,4 @@
-👋 Guten Tag,<br>
+Guten Tag,<br>
 Herzlich Willkommen auf meiner GITHUB-Seite.
 
 ## Über mich:
@@ -9,7 +9,7 @@ Einige Beispiele:
 * Implementierungen von Algorithmen z.B. Base64
 * Migrierung von Legacy-Systemen auf modernere Systeme
 
-Ursprünglich komme ich aus dem Bereich der Desktop-Entwicklung mit C#
+Ursprünglich komme ich aus dem Bereich der Desktop-Entwicklung mit C#<br>
 und einfach gebauten Webanwendungen für W/L/XAMPP-Stacks.
 
 ## Eigene Projekte
