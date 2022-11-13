@@ -1,7 +1,7 @@
 👋 Guten Tag,<br>
 Herzlich Willkommen auf meiner GITHUB-Seite.
 
-## Über mich:
+### Über mich:
 Ich bin der Typ den Sie rufen, wenn Sie keine Antwort<br>
 auf Stack-Overflow.com finden.
 
@@ -13,13 +13,14 @@ Ein paar Beispiele:
 <br>
 Natürlich kann ich auch die leichten Sachen.
 
-## Für mein Portfolio:
+### Für mein Portfolio:
 [Bitte hier klicken, um zu meinem Portfolio zu gelangen](https://theRealVince.github.io)
 
-## FAQ:
+
+### FAQ:
 #### Warum sehe ich keine PUBLIC Repositories?<br>
-Weil sich in vielen Repositories bezahlte API-Keys, persoenliche Einstellungen und<br>
-Zugangsdaten wie Benutzernamen, Passwoerter und E-Mail-Adressen befinden.<br>
+Weil sich in vielen Repositories bezahlte API-Keys, persönliche Einstellungen und<br>
+Zugangsdaten wie Benutzernamen, Passwörter und E-Mail-Adressen befinden.<br>
 Daher habe ich mich vorsichtshalber entschieden alles auf PRIVATE zu setzen.
 
 #### Wo finde ich die neusten Builds?<br>
